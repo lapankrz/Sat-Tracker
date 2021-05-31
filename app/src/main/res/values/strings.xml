@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sat Tracker</string>
+    <string name="title_home">Sat Map</string>
+    <string name="title_dashboard">Database</string>
+    <string name="title_notifications">Conditions</string>
+    <string name="cloud_coverage">Cloud coverage</string>
+    <string name="norad">NORAD ID</string>
+    <string name="status">Status</string>
+    <string name="in_orbit">In Orbit</string>
+    <string name="deorbited">De-Orbited</string>
+    <string name="location_title">Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="back_button">Back button</string>
+    <string name="search_hint">Search by name or ID</string>
+    <string name="observe">Add to observed</string>
+    <string name="unobserve">Remove from observed</string>
+    <string name="add_notification">Enable notifications</string>
+    <string name="remove_notification">Disable notifications</string>
+    <string name="curr_visible">Currently visible:</string>
+    <string name="no_passes">No close visual passes</string>
+    <string name="next_pass">Next visual pass:</string>
+</resources>
